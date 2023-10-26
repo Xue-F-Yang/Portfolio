@@ -123,6 +123,10 @@ img {
   height: auto;
 }
 
+.rounded-img {
+  border-radius: 50%;
+}
+
 @media screen and (max-width: 768px) {
   header,
   main {
