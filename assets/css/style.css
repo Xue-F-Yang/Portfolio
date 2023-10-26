@@ -106,9 +106,9 @@ footer li a {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(0, 0, 0, 0.8);
   display: flex;
-  color: #fff;
+  color: #ffffff;
   padding: 10px;
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
